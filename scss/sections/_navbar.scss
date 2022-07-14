@@ -3,7 +3,7 @@
 
 .menu{
   @include gradient;
-
+  // font-family: 'Poppins', sans-serif;
   li{
     padding: 0 0.7rem;
 
@@ -13,4 +13,13 @@
       font-weight: 600;
     }
   }
+}
+
+.dropdown-menu{
+  background-image: linear-gradient(to right, $primary, $secondary);
+}
+
+.dropdown-item{
+  color: $white;
+  font-family: 'Poppins', sans-serif;
 }
