@@ -1,5 +1,10 @@
-# Service Based Company Homepage - Web Development
-A static website for a service based company made using HTML, CSS, SCSS and hosted on Github.
+
+# Service Based Company Homepage - 
+
+Service Based Company Homepage - Web Development
+
+
+## Demo
 
 <img width="1440" alt="image" src="https://github.com/Yahoo002/WebPage_SCSS/assets/103456615/4642f47d-0882-48b2-8977-77845b5b55f1">
 
@@ -10,3 +15,14 @@ A static website for a service based company made using HTML, CSS, SCSS and host
 <img width="1440" alt="image" src="https://github.com/Yahoo002/WebPage_SCSS/assets/103456615/8c2c8e94-83bf-4f8c-a225-98c7bcec294f">
 
 <img width="1437" alt="image" src="https://github.com/Yahoo002/WebPage_SCSS/assets/103456615/7278cbd6-1265-46d4-8b66-805fbd755625">
+
+
+## License
+
+[GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
+
+
+## Authors
+
+- [@Yahoo002](https://github.com/Yahoo002)
+
