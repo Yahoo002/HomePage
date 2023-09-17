@@ -1,7 +1,7 @@
 
 # Service Based Company Homepage
 
-An example homepage for a Service Based Company made using HTML, CSS and SCSS, and hosted on Github.
+An example homepage for a Service Based Company made using HTML, CSS, SCSSBottstrap 5, and hosted on Github.
 
 
 ## Demo
